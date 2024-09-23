@@ -1,7 +1,17 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
-MSG: Failed to setup tunnel client
-Error: RequestError(TooManyRequests)
-[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1727058044939 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058279964 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058284987 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -10,28 +20,13 @@ community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1727058060047 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727058294088 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1727058063127 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1727058078274 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1727058081363 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727058297166 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -40,22 +35,13 @@ community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1727058096463 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727058312304 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1727058099525 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1727058114631 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727058315371 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -64,28 +50,13 @@ community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1727058129766 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727058331237 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1727058132848 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1727058147967 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1727058151047 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727058336062 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -94,13 +65,13 @@ community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1727058166163 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727058351700 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1727058169234 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727058354771 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
@@ -109,9 +80,339 @@ community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1727058184367 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727058369888 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058385015 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058388095 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058403188 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058418305 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058421641 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058436973 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058452060 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058455285 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058470394 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058473465 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058488567 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058491699 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058506795 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058521892 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058524964 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058540052 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058543119 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058558209 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058561861 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058564944 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058580304 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058583371 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058598463 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058601527 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058618210 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058633318 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058636379 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058651496 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058666598 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058669673 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058684784 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058687861 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058702964 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058706054 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058721163 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058724237 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058739384 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058742450 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058757562 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058760628 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058763701 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727058778809 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727058782735 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+community-raw.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
